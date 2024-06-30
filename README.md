@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+development+in+the+world)](https://git.io/typing-svg)
 
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
 
 <!--
 **s-code-dev/s-code-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
