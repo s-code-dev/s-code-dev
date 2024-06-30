@@ -30,7 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
-![site](https://programming-code.ru)
+<a href="https://programming-code.ru">site</a>
 
 
 
