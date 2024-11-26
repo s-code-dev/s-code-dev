@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1000&pause=800&color=4007F7&random=false&width=435&lines=-S)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1000&pause=800&color=4007F7&random=false&width=435&lines=-S)
 <a href="https://programming-code.ru">site</a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1500&random=false&width=600&lines=Web+development+in+the+world.)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1500&random=false&width=600&lines=Web+development+in+the+world.)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
